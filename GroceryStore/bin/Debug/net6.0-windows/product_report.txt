@@ -1,0 +1,6 @@
+Product Report:
+
+Product ID: 7
+Product Name: Apricot
+Product Price: 430
+
