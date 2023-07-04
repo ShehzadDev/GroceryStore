@@ -1,6 +1,34 @@
 Product Report:
 
+Product ID: 1
+Product Name: banana
+Product Price: 250
+
+Product ID: 2
+Product Name: Avocado
+Product Price: 300
+
+Product ID: 4
+Product Name: Banana
+Product Price: 240
+
 Product ID: 7
 Product Name: Apricot
 Product Price: 430
+
+Product ID: 8
+Product Name: wavy
+Product Price: 200
+
+Product ID: 9
+Product Name: Korneaz
+Product Price: 150
+
+Product ID: 10
+Product Name: Waffle
+Product Price: 40
+
+Product ID: 3
+Product Name: wavy
+Product Price: 200
 
